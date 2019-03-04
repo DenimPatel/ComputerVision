@@ -17,6 +17,6 @@ ______________________________________________
 open folder in cmd
 
 write 
--> python rectifiction.py query-image-name
+-> python rectification.py query-image-name
 
 ex. python rectifiction.py 1.jpg
