@@ -5,7 +5,7 @@ RM     := rm -f
 
 .PHONY: all clean
 
-NAME := lab4
+NAME := image_homography
 SRCS := $(wildcard *.cpp)
 OBJS := $(filter-out utility.o, $(SRCS:.cpp=.o))
 

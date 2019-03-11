@@ -1,6 +1,6 @@
 
 to run the code:
 
-lab4 first-image second-image threshold-corners
+image_homography first-image second-image threshold-corners
 
-ex: lab4 adams01.jpg adams06.jpg 500
+ex: image_homography adams01.jpg adams06.jpg 500
